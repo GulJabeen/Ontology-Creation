@@ -1,0 +1,58 @@
+(NP
+  (NP (DT The) (NN death))
+  (NP
+    (NP (NN toll))
+    (PP
+      (IN of)
+      (NP
+        (NP (DT the) (NN suicide) (NN bombing))
+        (PP (IN in) (NP (NNP Ibb)))))))
+
+
+['The', 'death', 'toll', 'of', 'the', 'suicide', 'bombing', 'in', 'Ibb']
+
+
+(NP (DT The) (NN death))
+
+
+['The', 'death']
+
+
+(NP
+  (NP (NN toll))
+  (PP
+    (IN of)
+    (NP
+      (NP (DT the) (NN suicide) (NN bombing))
+      (PP (IN in) (NP (NNP Ibb))))))
+
+
+['toll', 'of', 'the', 'suicide', 'bombing', 'in', 'Ibb']
+
+
+(NP (NN toll))
+
+
+['toll']
+
+
+(NP
+  (NP (DT the) (NN suicide) (NN bombing))
+  (PP (IN in) (NP (NNP Ibb))))
+
+
+['the', 'suicide', 'bombing', 'in', 'Ibb']
+
+
+(NP (DT the) (NN suicide) (NN bombing))
+
+
+['the', 'suicide', 'bombing']
+
+
+(NP (NNP Ibb))
+
+
+['Ibb']
+
+

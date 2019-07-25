@@ -1,0 +1,9 @@
+There are four folders in the repository.
+1st Annotations: Some annotated sentences for understanding of the context.
+2nd: Data Set Preparation > Containing following sub files: 
+...............1. Web scrapper - extracted data from the web.
+...............2.Shallow parsing using Spacy Code
+...............3.Shallow parsing using Corenlp (sucessful)
+...............4. Semnatic Annotation interface for crpwdworkes to check which entities are important. (currently working on it)
+3rd: Dataset (wikidata News dataset)
+Thesis Report
